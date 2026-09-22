@@ -61,7 +61,3 @@ The `.tfl` files can be opened in Tableau Prep to see how the raw NYC Open Data 
 ## Team
 
 Group project for IE6600 (Group 3): Saravanan Arumugam, Satyajit Lanka, Shriram Vijaykumar, and Varun Kumar Kumaravel.
-
-## License
-
-No license is currently specified for this repository.
